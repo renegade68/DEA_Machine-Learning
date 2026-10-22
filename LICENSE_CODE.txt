@@ -1,0 +1,39 @@
+Academic Free License 3.0
+=========================
+
+Copyright © 2026 Choonjoo Lee and the identified contributors.
+SPDX-License-Identifier: AFL-3.0
+
+The .ado, .sthlp and Python runtime files in this repository are licensed
+under the Academic Free License version 3.0. The complete, unmodified
+license is provided in LICENSE. Preserve individual author, contributor
+and methodological notices. No additional non-commercial restriction is
+imposed. Third-party dependencies retain their own licenses and are not
+bundled here.
+
+Attribution
+-----------
+
+Lee, C. Forthcoming. dea_ml: Machine-learning frontier estimators for
+efficiency analysis in Stata.
+Accepted for publication in the Stata Journal.
+Stata Journal: https://www.stata-journal.com/
+
+This repository maintains the article's software and subsequent author
+updates. The acceptance notice refers to the article; it does not extend
+the article's validation claims to later code changes. Preserve attribution
+to the author and the Stata Journal when redistributing these files.
+Use the complete journal citation and DOI when available. Method-specific
+references are recorded in the source and help files.
+
+Article manuscripts, PDFs, LaTeX sources and publishing agreements are
+not included and are not covered by this software license. Their sharing
+and reuse are governed separately by the applicable publishing agreement
+and publisher policies.
+
+Warranty and liability
+----------------------
+
+Sections 7 and 8 of AFL-3.0 control warranty and liability. This notice
+does not modify the license text. Users are responsible for validating
+their model specifications, computations and results.
